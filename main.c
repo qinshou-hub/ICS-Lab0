@@ -2,5 +2,5 @@
 
 int main()
 {
-    printf("I am learning Git in FDU ICS Lab0!\n");
+    printf("Hello from the feature branch!\n");
 }
